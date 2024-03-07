@@ -288,6 +288,8 @@ a:focus {
 }
 
 .pos-18 {
+	position: relative;
+	right: 20px;
 	grid-area: 31 / 44 / 44 / 38;
 }
 
@@ -324,11 +326,14 @@ a:focus {
 }
 
 .pos-27 {
-	grid-area: 33 / 38 / 45 / 42;
+	
+	position: relative;
+	right: 230px;
+	grid-area: 33 / 38 / 45 / 44;
 }
 
 .pos-28 {
-	grid-area: 33 / 43 / 49 / 49;
+	grid-area: 32 / 44 / 45 / 49;
 }
 
 .content__title {
